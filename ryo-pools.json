@@ -127,15 +127,6 @@
             "miningAddress" : "ryo.altpool.pro"
         },
         {
-            "name" : "Ryo-pool.com",
-            "url" : "http://ryo-pool.com/",
-            "api" : "http://207.148.9.41:8117/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "ryo-pool.com"
-        },
-        {
             "name" : "Newpool.pw",
             "url" : "https://newpool.pw/ryo/",
             "api" : "https://minenice.newpool.pw:8227/",
