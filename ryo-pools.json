@@ -162,5 +162,14 @@
             "payment": ["pplns"],
             "miningAddress" : "mine.ryo.fairpool.cloud"
         }
+        {
+            "name" : "miners.pro",
+            "url" : "https://ryo.miners.pro",
+            "api" : "https://ryo.miners.pro:8120/",
+            "type" : "node.js",
+            "location" : "",
+            "payment": ["prop"],
+            "miningAddress" : "ryo.miners.pro"
+        }
     ]
 }
