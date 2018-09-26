@@ -145,6 +145,15 @@
             "miningAddress" : "ryo.miners.pro"
         },
         {
+            "name" : "Walpool",
+            "url" : "https://walpool.com/ryo/",
+            "api" : "https://api.walpool.com/rpc/ryo/",
+            "type" : "forknote",
+            "location" : "",
+            "payment": ["prop"],
+            "miningAddress" : "ryo-us.walpool.com"
+        },
+        {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
             "api" : "https://ryo.hashvault.pro/api/",
