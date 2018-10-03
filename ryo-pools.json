@@ -19,7 +19,7 @@
             "miningAddress" : "pool.ryo-currency.ru"
         },
         {
-            "name" : "Ryo Official Pool (EU)",
+            "name" : "Ryo Pool EU",
             "url" : "http://pool.ryo-currency.eu/",
             "api" : "http://pool.ryo-currency.eu:8118/",
             "type" : "cryptonote-universal",
