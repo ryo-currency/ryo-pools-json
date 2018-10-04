@@ -183,7 +183,7 @@
         {
             "name" : "Waterpark",
             "url" : "https://www.waterparkmining.com/pools/ryo",
-            "api" : "https://api.waterparkmining.com/ryo/",
+            "api" : "https://api.waterparkmining.com/pools/ryo/",
             "type" : "go",
             "location" : "",
             "payment": ["pplns","solo"],
