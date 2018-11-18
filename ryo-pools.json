@@ -57,7 +57,7 @@
         {
             "name" : "Miner-Coin.eu",
             "url" : "http://miner-coin.eu/ryo/",
-            "api" : "http://54.37.75.69:8118/",
+            "api" : "http://86.121.226.20:8116/",
             "type" : "cryptonote-universal",
             "location" : "",
             "payment": ["prop"],
