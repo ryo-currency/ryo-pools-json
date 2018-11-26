@@ -154,6 +154,15 @@
             "miningAddress" : "ryo-us.walpool.com"
         },
         {
+            "name" : "Modpool",
+            "url" : "https://ryo.modpool.org/",
+            "api" : "https://ryo.modpool.org:9138/",
+            "type" : "forknote",
+            "location" : "",
+            "payment": ["prop"],
+            "miningAddress" : "ryo.modpool.org"
+        },
+        {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
             "api" : "https://ryo.hashvault.pro/api/",
