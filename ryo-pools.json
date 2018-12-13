@@ -197,6 +197,15 @@
             "location" : "",
             "payment": ["pplns","solo"],
             "miningAddress" : "ryo.mine.waterparkmining.com"
-        }
+        },
+        {
+           "name" : "aiwakuangpool",
+           "url" : "http://ryo.aiwakuang.cn/",
+           "api" : "http://aiwakuang.cn:8115/",
+           "type" : "forknote",
+           "location" : "",
+           "payment": ["prop"],
+           "miningAddress" : "aiwakuang.cn:7779"
+    }
     ]
 }
