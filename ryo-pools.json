@@ -163,6 +163,15 @@
             "miningAddress" : "ryo.modpool.org"
         },
         {
+            "name" : "Nons.xyz",
+            "url" : "https://ryo.modpool.org/",
+            "api" : "https://ryo.nons.xyz/api/",
+            "type" : "forknote",
+            "location" : "",
+            "payment": ["prop"],
+            "miningAddress" : "ryo.nons.xyz"
+        },
+        {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
             "api" : "https://ryo.hashvault.pro/api/",
