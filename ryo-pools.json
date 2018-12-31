@@ -3,7 +3,7 @@
         {
             "name" : "Ryo Official Pool (Main)",
             "url" : "https://pool.ryo-currency.com/",
-            "api" : "https://pool.ryo-currency.com:8118/",
+            "api" : "https://pool.ryo-currency.com/api/",
             "type" : "cryptonote-universal",
             "location" : "",
             "payment": ["prop"],
