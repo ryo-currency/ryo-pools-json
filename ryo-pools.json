@@ -93,7 +93,7 @@
         {
             "name" : "The Block Foundry",
             "url" : "https://ryo.blockfoundry.org/",
-            "api" : "https://ryo.blockfoundry.org:8118/",
+            "api" : "https://ryo.blockfoundry.org/api/",
             "type" : "forknote",
             "location" : "",
             "payment": ["prop"],
