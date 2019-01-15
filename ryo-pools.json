@@ -172,6 +172,24 @@
             "miningAddress" : "ryo.nons.xyz"
         },
         {
+           "name" : "aiwakuangpool",
+           "url" : "http://ryo.aiwakuang.cn/",
+           "api" : "http://aiwakuang.cn:8115/",
+           "type" : "forknote",
+           "location" : "",
+           "payment": ["prop"],
+           "miningAddress" : "aiwakuang.cn:7779"
+        },
+        {
+           "name" : "GPUMining.IR",
+           "url" : "https://cn.gpumining.ir/ryo",
+           "api" : "https://cn.gpumining.ir/ryoapi/",
+           "type" : "forknote",
+           "location" : "",
+           "payment": ["prop"],
+           "miningAddress" : "cn.gpumining.ir:8035"
+        },
+        {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
             "api" : "https://ryo.hashvault.pro/api/",
@@ -206,24 +224,6 @@
             "location" : "",
             "payment": ["pplns","solo"],
             "miningAddress" : "ryo.mine.waterparkmining.com"
-        },
-        {
-           "name" : "aiwakuangpool",
-           "url" : "http://ryo.aiwakuang.cn/",
-           "api" : "http://aiwakuang.cn:8115/",
-           "type" : "forknote",
-           "location" : "",
-           "payment": ["prop"],
-           "miningAddress" : "aiwakuang.cn:7779"
-		},
-        {
-           "name" : "GPUMining.IR",
-           "url" : "http://cn.gpumining.ir/ryo",
-           "api" : "http://cn.gpumining.ir/ryoapi/",
-           "type" : "forknote",
-           "location" : "",
-           "payment": ["prop"],
-           "miningAddress" : "cn.gpumining.ir:8035"
-		}
+        }
     ]
 }
