@@ -215,6 +215,15 @@
            "location" : "",
            "payment": ["prop"],
            "miningAddress" : "aiwakuang.cn:7779"
-    }
+		},
+        {
+           "name" : "GPUMining.IR",
+           "url" : "http://cn.gpumining.ir/ryo",
+           "api" : "http://cn.gpumining.ir/ryoapi/",
+           "type" : "forknote",
+           "location" : "",
+           "payment": ["prop"],
+           "miningAddress" : "cn.gpumining.ir:8035"
+		}
     ]
 }
