@@ -114,7 +114,7 @@
             "api" : "http://ryo.baikalmine.com:3792/",
             "type" : "forknote",
             "location" : "",
-            "payment": ["pplns"],
+            "payment": ["pplns","solo"],
             "miningAddress" : "ryo.baikalmine.com"
         },
         {
@@ -123,7 +123,7 @@
             "api" : "http://ryo.altpool.pro/api/",
             "type" : "forknote",
             "location" : "",
-            "payment": ["prop"],
+            "payment": ["prop","solo"],
             "miningAddress" : "ryo.altpool.pro"
         },
         {
