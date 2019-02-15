@@ -51,7 +51,7 @@
             "api" : "https://ryo.herominers.com/api/",
             "type" : "cryptonote-universal",
             "location" : "",
-            "payment": ["prop"],
+            "payment": ["prop","solo"],
             "miningAddress" : "ryo.herominers.com"
         },
         {
