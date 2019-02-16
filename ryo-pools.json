@@ -129,7 +129,7 @@
         {
             "name" : "Newpool.pw",
             "url" : "https://newpool.pw/ryo/",
-            "api" : "https://minenice.newpool.pw:8227/",
+            "api" : "https://minenice.newpool.pw:8223/",
             "type" : "forknote",
             "location" : "",
             "payment": ["prop"],
