@@ -19,15 +19,6 @@
             "miningAddress" : "pool.ryo-currency.ru"
         },
         {
-            "name" : "Ryo Pool EU",
-            "url" : "http://pool.ryo-currency.eu/",
-            "api" : "http://pool.ryo-currency.eu:8118/",
-            "type" : "cryptonote-universal",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "pool.ryo-currency.eu"
-        },
-        {
             "name" : "Miner.rocks",
             "url" : "https://ryo.miner.rocks/",
             "api" : "https://ryo.miner.rocks/api/",
@@ -82,15 +73,6 @@
             "miningAddress" : "ryo.luckypool.io"
         },
         {
-            "name" : "SonOfATech",
-            "url" : "http://ryo.sonofatech.com/",
-            "api" : "http://144.202.79.140:8117/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "ryo.sonofatech.com"
-        },
-        {
             "name" : "The Block Foundry",
             "url" : "https://ryo.blockfoundry.org/",
             "api" : "https://ryo.blockfoundry.org/api/",
@@ -100,18 +82,9 @@
             "miningAddress" : "ryo.blockfoundry.org"
         },
         {
-            "name" : "Smart Coin Pool",
-            "url" : "https://www.ryo.smartcoinpool.com/",
-            "api" : "https://ryo.smartcoinpool.com:8919/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "smartcoinpool.com"
-        },
-        {
             "name" : "Baikalmine",
-            "url" : "http://pool.baikalmine.com/en/ryo/",
-            "api" : "http://ryo.baikalmine.com:3792/",
+            "url" : "https://baikalmine.com/en/pplns/ryo/",
+            "api" : "https://ryo.baikalmine.com/api/",
             "type" : "forknote",
             "location" : "",
             "payment": ["pplns","solo"],
@@ -127,36 +100,9 @@
             "miningAddress" : "ryo.altpool.pro"
         },
         {
-            "name" : "Newpool.pw",
-            "url" : "https://newpool.pw/ryo/",
-            "api" : "https://minenice.newpool.pw:8223/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "minenice.newpool.pw"
-        },
-        {
-            "name" : "miners.pro",
-            "url" : "https://ryo.miners.pro",
-            "api" : "https://ryo.miners.pro:8120/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "ryo.miners.pro"
-        },
-        {
-            "name" : "Walpool",
-            "url" : "https://walpool.com/ryo/",
-            "api" : "https://api.walpool.com/rpc/ryo/",
-            "type" : "forknote",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "ryo-us.walpool.com"
-        },
-        {
             "name" : "Modpool",
             "url" : "https://ryo.modpool.org/",
-            "api" : "https://ryo.modpool.org:9138/",
+            "api" : "https://ryo.modpool.org/api/",
             "type" : "forknote",
             "location" : "",
             "payment": ["prop"],
@@ -172,24 +118,6 @@
             "miningAddress" : "ryo.nons.xyz"
         },
         {
-           "name" : "aiwakuangpool",
-           "url" : "http://ryo.aiwakuang.cn/",
-           "api" : "http://aiwakuang.cn:8115/",
-           "type" : "forknote",
-           "location" : "",
-           "payment": ["prop"],
-           "miningAddress" : "aiwakuang.cn:7779"
-        },
-        {
-           "name" : "GPUMining.IR",
-           "url" : "https://cn.gpumining.ir/ryo",
-           "api" : "https://cn.gpumining.ir/ryoapi/",
-           "type" : "forknote",
-           "location" : "",
-           "payment": ["prop"],
-           "miningAddress" : "cn.gpumining.ir:8035"
-        },
-        {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
             "api" : "https://ryo.hashvault.pro/api/",
@@ -199,15 +127,6 @@
             "miningAddress" : "pool.ryo.hashvault.pro"
         },
         {
-            "name" : "BohemianPool",
-            "url" : "https://ryo.bohemianpool.com/",
-            "api" : "https://ryo.bohemianpool.com/api/",
-            "type" : "node.js",
-            "location" : "",
-            "payment": ["pplns"],
-            "miningAddress" : "ryo.bohemianpool.com"
-        },
-        {
             "name" : "Fairpool",
             "url" : "https://ryo.fairpool.cloud/",
             "api" : "https://ryo.fairpool.cloud/api/",
@@ -215,15 +134,6 @@
             "location" : "",
             "payment": ["pplns"],
             "miningAddress" : "mine.ryo.fairpool.cloud"
-        },
-        {
-            "name" : "Waterpark",
-            "url" : "https://www.waterparkmining.com/pools/ryo",
-            "api" : "https://api.waterparkmining.com/pools/ryo/",
-            "type" : "go",
-            "location" : "",
-            "payment": ["pplns","solo"],
-            "miningAddress" : "ryo.mine.waterparkmining.com"
         }
     ]
 }
