@@ -1,22 +1,13 @@
 {
     "pools" : [
         {
-            "name" : "Ryo Official Pool (Main)",
+            "name" : "Ryo Official Pool",
             "url" : "https://pool.ryo-currency.com/",
             "api" : "https://pool.ryo-currency.com/api/",
-            "type" : "cryptonote-universal",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "pool.ryo-currency.com"
-        },
-        {
-            "name" : "Ryo Official Pool (RU)",
-            "url" : "https://pool.ryo-currency.ru/",
-            "api" : "https://pool.ryo-currency.ru/api/",
             "type" : "forknote",
             "location" : "",
             "payment": ["prop"],
-            "miningAddress" : "pool.ryo-currency.ru"
+            "miningAddress" : "pool.ryo-currency.com"
         },
         {
             "name" : "Miner.rocks",
