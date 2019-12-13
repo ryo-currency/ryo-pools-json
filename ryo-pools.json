@@ -125,6 +125,15 @@
             "location" : "",
             "payment": ["pplns"],
             "miningAddress" : "mine.ryo.fairpool.cloud"
+        },
+        {
+            "name" : "ZergPool",
+            "url" : "https://zergpool.com/",
+            "api" : "http://api.zergpool.com:8080/api/currencies",
+            "type" : "yiimp",
+            "location" : "",
+            "payment": ["prop"],
+            "miningAddress" : "cryptonight_gpu.mine.zergpool.com"
         }
     ]
 }
