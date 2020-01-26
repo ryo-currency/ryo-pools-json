@@ -111,11 +111,11 @@
         {
             "name" : "Hashvault",
             "url" : "https://ryo.hashvault.pro/",
-            "api" : "https://ryo.hashvault.pro/api/",
+            "api" : "https://api.hashvault.pro/v2/ryo/",
             "type" : "node.js",
             "location" : "",
-            "payment": ["pplns"],
-            "miningAddress" : "pool.ryo.hashvault.pro"
+            "payment": ["pplns", "solo"],
+            "miningAddress" : "pool.hashvault.pro"
         },
         {
             "name" : "Fairpool",
