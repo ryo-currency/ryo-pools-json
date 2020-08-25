@@ -19,15 +19,6 @@
             "miningAddress" : "ryo.miner.rocks"
         },
         {
-            "name" : "Leaf Pool",
-            "url" : "https://ryo.leafpool.com/",
-            "api" : "https://api-ryo.leafpool.com/",
-            "type" : "cryptonote-universal",
-            "location" : "",
-            "payment": ["prop"],
-            "miningAddress" : "mine-ryo.leafpool.com"
-        },
-        {
             "name" : "Hero Miners",
             "url" : "https://ryo.herominers.com/",
             "api" : "https://ryo.herominers.com/api/",
