@@ -125,6 +125,15 @@
             "location" : "",
             "payment": ["pplns"],
             "miningAddress" : "mine.ryo.fairpool.cloud"
+        },
+        {
+            "name" : "VeinPool",
+            "url" : "https://veinpool.fr/en/coin/ryo",
+            "api" : "https://veinpool.fr/api/pools/ryo1",
+            "type" : "miningcore",
+            "location" : "Europe (France)",
+            "payment": ["pplns","solo"],
+            "miningAddress" : "veinpool.fr"
         }
     ]
 }
